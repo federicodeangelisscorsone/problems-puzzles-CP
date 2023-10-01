@@ -7,8 +7,8 @@ I mainly use MATLAB / Octave but I'm looking to try some of new coding languages
 
 ## Project Euler problems
 As stated on its website, "Project Euler is a series of challenging mathematical/computer programming problems". From my point of view seems mainly focused on number theory.
-In the following folder you'll find some solutions.
+In the following [folder](https://github.com/federicodeangelisscorsone/problems-puzzles-CP/tree/main/Project%20euler%20solutions) you'll find some solutions.
 
 ## CSES problems
 The CSES Problem Set is a collection of algorithmic programming problems. I recently discover this website, so there are not many solutions. I'm giving it a bet.
-In the following folder you'll find some solutions.
+In the following [folder](https://github.com/federicodeangelisscorsone/problems-puzzles-CP/tree/main/CSES%20solutions) you'll find some solutions.
